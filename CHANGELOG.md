@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/jobtrek/ex-fp/compare/v0.1.2...v0.1.3) (2026-04-17)
+
+
+### Miscellaneous Chores
+
+* remove unused module key ([5fec848](https://github.com/jobtrek/ex-fp/commit/5fec848a5aa0d648468e1592094c71eb45d0a514))
+
 ## [0.1.2](https://github.com/jobtrek/ex-fp/compare/v0.1.1...v0.1.2) (2026-04-14)
 
 
