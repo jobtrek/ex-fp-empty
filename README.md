@@ -1,4 +1,4 @@
-# Functional Programming Exercises in TypeScript v0.1.2 <!-- x-release-please-version -->
+# Functional Programming Exercises in TypeScript v0.1.3 <!-- x-release-please-version -->
 
 This repository contains a series of guided exercises to learn the fundamentals of functional programming in TypeScript. You will work through pure functions, higher-order functions, composition, immutability, currying, and a real-world data pipeline.
 
