@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.1.5](https://github.com/jobtrek/ex-fp/compare/v0.1.4...v0.1.5) (2026-05-01)
+
+
+### Miscellaneous Chores
+
+* commit authors inclusion in release config ([25ecd5e](https://github.com/jobtrek/ex-fp/commit/25ecd5e1da40e4b757b23b5cb61b16ad71d1e934))
+* **deps-dev:** bump the development-dependencies group with 3 updates ([#9](https://github.com/jobtrek/ex-fp/issues/9)) ([dfe33ea](https://github.com/jobtrek/ex-fp/commit/dfe33ea98feb558bfa92dcd96448d32dbd878c67))
+* **deps:** bump googleapis/release-please-action from 4.4.1 to 5.0.0 ([#8](https://github.com/jobtrek/ex-fp/issues/8)) ([0b80d54](https://github.com/jobtrek/ex-fp/commit/0b80d54977553532a1934d3f5494aab619ac2808))
+* update ([5f84f53](https://github.com/jobtrek/ex-fp/commit/5f84f53b0de8db3d2dfab049d8571a1f958fc2b8))
+
+## [0.1.4](https://github.com/jobtrek/ex-fp/compare/v0.1.3...v0.1.4) (2026-04-21)
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump the development-dependencies group with 2 updates ([#6](https://github.com/jobtrek/ex-fp/issues/6)) ([895f5c8](https://github.com/jobtrek/ex-fp/commit/895f5c813be644eb8cfc0beaa7405c5c37feb173))
+
 ## [0.1.3](https://github.com/jobtrek/ex-fp/compare/v0.1.2...v0.1.3) (2026-04-17)
 
 
