@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.1.8](https://github.com/jobtrek/ex-fp/compare/v0.1.7...v0.1.8) (2026-06-04)
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump the development-dependencies group with 2 updates ([#15](https://github.com/jobtrek/ex-fp/issues/15)) ([1ec4088](https://github.com/jobtrek/ex-fp/commit/1ec4088fd8e6a8f4690acdc76e510153c962f9b3))
+* **deps:** bump actions/checkout from 6.0.2 to 6.0.3 ([#16](https://github.com/jobtrek/ex-fp/issues/16)) ([b0f148c](https://github.com/jobtrek/ex-fp/commit/b0f148ca446154695e4fe4f87f6c64c6a3cd3047))
+* **deps:** bump jobtrek/sw-action from 1.5.0 to 1.6.0 ([#17](https://github.com/jobtrek/ex-fp/issues/17)) ([2870444](https://github.com/jobtrek/ex-fp/commit/28704441a9a9ef687c4ce991f53ccb7a4b783798))
+
+## [0.1.7](https://github.com/jobtrek/ex-fp/compare/v0.1.6...v0.1.7) (2026-05-20)
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump the development-dependencies group with 3 updates ([#13](https://github.com/jobtrek/ex-fp/issues/13)) ([71cb40a](https://github.com/jobtrek/ex-fp/commit/71cb40ae9fe99b9b3c29e34af1dec4a4e2b314f0))
+
 ## [0.1.6](https://github.com/jobtrek/ex-fp/compare/v0.1.5...v0.1.6) (2026-05-13)
 
 
