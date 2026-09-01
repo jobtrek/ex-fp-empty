@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.14](https://github.com/jobtrek/ex-fp/compare/v0.1.13...v0.1.14) (2026-09-01)
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump the development-dependencies group across 1 directory with 3 updates ([#32](https://github.com/jobtrek/ex-fp/issues/32)) ([fd3a792](https://github.com/jobtrek/ex-fp/commit/fd3a792d0d0b911c02ad15331ee1ea8ca99f9d62))
+* **deps-dev:** bump the development-dependencies group with 2 updates ([#34](https://github.com/jobtrek/ex-fp/issues/34)) ([afb0585](https://github.com/jobtrek/ex-fp/commit/afb05850854018d17ee42291e1fc099e81bcec79))
+
 ## [0.1.13](https://github.com/jobtrek/ex-fp/compare/v0.1.12...v0.1.13) (2026-08-14)
 
 
