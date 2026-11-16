@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.1.16](https://github.com/jobtrek/ex-fp/compare/v0.1.15...v0.1.16) (2026-11-16)
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump the development-dependencies group across 1 directory with 3 updates ([#40](https://github.com/jobtrek/ex-fp/issues/40)) ([2c97725](https://github.com/jobtrek/ex-fp/commit/2c977253467b6c6d2eb38f262b2d6656d6de31bf))
+* **deps:** bump jobtrek/sw-action from 1.7.0 to 1.8.0 ([#41](https://github.com/jobtrek/ex-fp/issues/41)) ([1119df5](https://github.com/jobtrek/ex-fp/commit/1119df5f18512ec54be4465891ae6cc28709cb02))
+* **deps:** bump peter-evans/create-pull-request from 8.1.1 to 8.1.2 ([#42](https://github.com/jobtrek/ex-fp/issues/42)) ([142e084](https://github.com/jobtrek/ex-fp/commit/142e0846f4061e4ac59f279ba7e3f44a636df0a2))
+
+## [0.1.15](https://github.com/jobtrek/ex-fp/compare/v0.1.14...v0.1.15) (2026-10-12)
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump the development-dependencies group with 3 updates ([#35](https://github.com/jobtrek/ex-fp/issues/35)) ([2af07e4](https://github.com/jobtrek/ex-fp/commit/2af07e4b7aac1ef2d4d199b34a429637e80e4b62))
+* **deps-dev:** bump the development-dependencies group with 3 updates ([#37](https://github.com/jobtrek/ex-fp/issues/37)) ([779f370](https://github.com/jobtrek/ex-fp/commit/779f3701e9c4ea94da5f9f22c30e261530451af3))
+* **deps:** bump jobtrek/sw-action from 1.6.0 to 1.7.0 ([#36](https://github.com/jobtrek/ex-fp/issues/36)) ([a4ea389](https://github.com/jobtrek/ex-fp/commit/a4ea389408a5efec58353acef58bc5b13a2e0ba6))
+
 ## [0.1.14](https://github.com/jobtrek/ex-fp/compare/v0.1.13...v0.1.14) (2026-09-01)
 
 
