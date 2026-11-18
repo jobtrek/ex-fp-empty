@@ -9,12 +9,12 @@
     "format:check": "oxfmt --check src/"
   },
   "devDependencies": {
-    "@types/bun": "^1.4.3",
-    "oxfmt": "^0.73.0",
-    "oxlint": "^1.88.0"
+    "@types/bun": "^1.4.4",
+    "oxfmt": "^0.78.0",
+    "oxlint": "^1.93.0"
   },
   "peerDependencies": {
     "typescript": "^6.0.3"
   },
-  "version": "0.1.16"
+  "version": "0.1.17"
 }
